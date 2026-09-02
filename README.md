@@ -1,8 +1,6 @@
 # avalia1-3ESAN
 # Participantes
-
-| Nome | RA |
-|Joao Antonio Siedlarczyk2026108077
+| João Lima | 2026108077 |
 
 ## Regras de colaboração
 - Ninguém faz push direto na main.
