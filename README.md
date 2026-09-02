@@ -1,8 +1,9 @@
 # avalia1-3ESAN
 # Participantes
 
-| Nome | RA |
-TESTE
+| João Siedlarczyk Lima | 2026108077 |
+
+| testejoao | 20260209 |
 
 ## Regras de colaboração
 - Ninguém faz push direto na main.
